@@ -1,0 +1,8 @@
+1|Biblioteca Central|Servicios|Espacio destinado al estudio, consulta y préstamo de material bibliográfico
+2|Comedor Universitario|Servicios|Servicio de alimentación dirigido a la comunidad universitaria
+3|Facultad de Ingeniería|Académico|Ambientes de enseñanza, laboratorios y actividades académicas de ingeniería
+4|Facultad de Ciencias|Académico|Aulas y laboratorios destinados a la formación en ciencias
+5|Escuela de Ingeniería de Sistemas|Académico|Ambientes académicos para la formación de estudiantes de Ingeniería de Sistemas
+6|Pabellón de Ingenierías|Académico|Espacios destinados al desarrollo de actividades de diferentes carreras de ingeniería
+7|Coliseo Universitario|Deportes|Instalación destinada a actividades deportivas y eventos universitarios
+8|Auditorio Central|Eventos|Espacio utilizado para conferencias, ceremonias y actividades institucionales
